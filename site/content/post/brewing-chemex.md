@@ -1,5 +1,5 @@
 ---
-title: A beginners’ guide to brewing with Chemex
+title: A beginners’ guide to template built with Victor Hugo and Netlify CMS
 date: 2018-11-14T18:04:00.000Z
 description: >
   Hugo template for Netlify CMS with Netlify Identity
